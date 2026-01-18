@@ -1,6 +1,6 @@
 ﻿module.exports = {
     // Token bot Discord (lấy từ Discord Developer Portal)
-    token: "MTQ2MTcxMDMxMDEzNzI3MDQxNg.GvJKu3.qxF1oAIoamvDgMw_PN2zURSIXN3YpEwTPESgCA",
+    token: "",
 
     // Tên bot
     botName: "Discord-Bot",
@@ -15,7 +15,7 @@
     adminUID: ["1144743140545273926"],
 
     // Gemini API Key (cho AI features)
-    GEMINI_API_KEY: "AIzaSyACPX59LfTMEBju9XEGnL05qme0h_BKobU",
+    GEMINI_API_KEY: "",
 
     // Channel IDs đặc biệt (tùy chọn)
     welcomeChannel: "", // Channel ID để gửi tin nhắn chào mừng
