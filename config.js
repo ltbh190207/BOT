@@ -18,8 +18,8 @@
     GEMINI_API_KEY: "",
 
     // Channel IDs đặc biệt (tùy chọn)
-    welcomeChannel: "", // Channel ID để gửi tin nhắn chào mừng
-    logChannel: "", // Channel ID để ghi log
+    welcomeChannel: "1461202428841169123", // Channel ID để gửi tin nhắn chào mừng
+    logChannel: "1461202428841169123", // Channel ID để ghi log
 
     // Màu sắc cho embeds
     colors: {
